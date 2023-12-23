@@ -1,7 +1,7 @@
 # Portanner
 Пример запуска утилиты:
 
-`python3 -m portscan [OPTIONS] IP_ADDRESS [{tcp|udp}[/[PORT|PORT-PORT]]]*`
+`python3 -m portscan [OPTIONS] IP_ADDRESS [{tcp|udp}[/[PORT|PORT-PORT],...]]...`
 
 
 Опции `[OPTIONS]` должны быть следующие:
